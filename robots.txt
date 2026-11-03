@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://granadosalasdavid-jpg.github.io/cofregamer/sitemap.xml
